@@ -16,3 +16,5 @@ if (4 > 3 && -1 > 0) {
     console.log("Esta condición también se cumple?");
 
 }
+
+/* Por que 4 es mayor que 3 Y 6 es mayor que 5, la otra linea no se ejecuta por que 4 es mayor que 3 pero -1 no es mayor que 0 */

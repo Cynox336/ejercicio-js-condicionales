@@ -11,3 +11,6 @@ if (numero < 2) {
 else {
     console.log("Cuack!")
 }
+/*
+Por que le hemos asignado a la variable numero, el numero 3 y este es mayor a 2
+*/

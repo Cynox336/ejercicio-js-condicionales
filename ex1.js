@@ -10,3 +10,4 @@ else {
     console.log("Guau!")
 }
 
+/* Por que 1 es menor que 2, si en el 1 pusieramos un 3 diria Guau! */
